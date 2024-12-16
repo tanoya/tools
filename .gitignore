@@ -1,0 +1,10 @@
+logs
+log
+*.exe
+*.deb
+*.log
+*.txt
+*.xls
+*.xlsx
+build
+target
